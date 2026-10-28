@@ -19,3 +19,10 @@ git commit -m "enter commit messages"
 
 git push origin main
 ```
+
+```sh
+# Git 로그 명령어
+git log
+git log --oneline
+git log --oneline -- all
+```
