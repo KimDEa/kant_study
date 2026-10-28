@@ -13,3 +13,9 @@ got add -A
 # commit
 git commit -m "enter commit messages"
 ```
+
+```bash
+# push
+
+git push origin main
+```
