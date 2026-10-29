@@ -26,3 +26,10 @@ git log
 git log --oneline
 git log --oneline -- all
 ```
+
+### 브랜치 생성 및 스위치
+```sh
+git branch 'branch name'
+git checkout 'branch name'
+git checkout -b 'branch name'
+```
